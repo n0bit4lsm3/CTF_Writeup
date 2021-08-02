@@ -16,7 +16,7 @@ Cuối cùng, sẽ thực hiện vòng lặp và kiểm tra số nhập vào có
 
 Ta để ý ở đây, **v9** được tính là `19753 * (j + 1)`. 
 
-Vì vậy các số hợp lệ tương ứng là: 19753*5, 19753*4, 19753*3, 19753*2, 19753*1.
+Vì vậy các số hợp lệ tương ứng là: 19753 * 5; 19753 * 4; 19753 * 3; 19753 * 2; 19753 * 1.
 
 Suy ra, flag sẽ là *uiuctf{627360eb8aa0da45ff04a514dab40e54}*
 
