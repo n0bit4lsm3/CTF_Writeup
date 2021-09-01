@@ -1,4 +1,4 @@
-[ctfwriteup](# ctfwriteup)
+[ctfwriteup](#ctfwriteup)
 
 123
 123
